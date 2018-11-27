@@ -3,13 +3,11 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\hero",
-    "\\src\\app\\hero-form",
-    "\\src\\app\\hero-form-template",
+    "\\src\\app\\autocomplete",
     "\\src\\app\\name-editor",
     "\\src\\app\\profile-editor",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\hero-form-template\\hero-form-template.component.html",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
